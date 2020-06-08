@@ -1,1 +1,5 @@
-demo-intro_to_react
+React presentation demo. Instructions:
+
+1. Navigate to the folder you want
+1. run "npm install"
+1. run "npm start"
