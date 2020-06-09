@@ -1,4 +1,6 @@
-React presentation demo. Instructions:
+React presentation demo. 
+
+**Instructions:**
 
 1. Navigate to the folder you want
 1. run "npm install"
